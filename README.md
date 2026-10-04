@@ -1,37 +1,79 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Matthieu+Lecl%C3%A8re&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Matthieu Leclère" />
+</p>
 
-# Matthieu Leclère
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Enseignant+vacataire+%26+intervenant+professionnel;Marketing+digital+%7C+Data+%26+IA;Entrepreneur+%7C+Manager+%7C+Formateur;4+700%2B+etudiants+formes"
+    alt="Typing SVG"
+  />
+</p>
 
-### Enseignant vacataire • Intervenant professionnel • Marketing digital • Gestion de projet • Data & IA
+<p align="center">
+  <img src="./assets/matthieu-headshot.png" width="190" alt="Matthieu Leclère" />
+</p>
 
-**Former, structurer, développer et transmettre.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthieu-lecl%C3%A8re/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matthieu_Lecl%C3%A8re-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MattLeclere">
+    <img src="https://img.shields.io/badge/GitHub-MattLeclere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mat.leclere@laposte.net">
+    <img src="https://img.shields.io/badge/Email-Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthieu_Leclère-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-lecl%C3%A8re/)
-[![Email](https://img.shields.io/badge/Email-mat.leclere%40laposte.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mat.leclere@laposte.net)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MattLeclere&style=for-the-badge&color=7A5CFF&label=VUES+DU+PROFIL" alt="Profile views" />
+</p>
 
 ---
 
-## À propos
+## ⚡ En quelques chiffres
 
-Intervenant professionnel et enseignant vacataire depuis **2011**, j'accompagne des étudiants du **BEP/CAP au Master 2** sur des thématiques liées au marketing digital, à la vente, à la gestion de projet, à l'intelligence artificielle et au développement professionnel.
-
-Mon parcours combine **enseignement, entrepreneuriat, management, marketing digital, recrutement et développement commercial**.
-
-Quelques repères :
-
-- **4 700+ étudiants formés**
-- Management d'équipes pluridisciplinaires jusqu'à **50 collaborateurs**
-- Création et développement d'entreprises et de plateformes spécialisées
-- Expérience en **SEO, SEA, SMM, e-réputation, gestion de projet et formation**
-- Parcours actuel en **Ingénierie Data & IA**
+<p align="center">
+  <img src="https://img.shields.io/badge/%C3%89tudiants_form%C3%A9s-4_700%2B-00F5FF?style=for-the-badge&labelColor=0D1117" alt="4700+ étudiants formés" />
+  <img src="https://img.shields.io/badge/Management-jusqu'%C3%A0_50_collaborateurs-7A5CFF?style=for-the-badge&labelColor=0D1117" alt="50 collaborateurs" />
+  <img src="https://img.shields.io/badge/Trafic-30_000_visiteurs%2Fmois-00F5FF?style=for-the-badge&labelColor=0D1117" alt="30000 visiteurs mensuels" />
+  <img src="https://img.shields.io/badge/Clients-250-7A5CFF?style=for-the-badge&labelColor=0D1117" alt="250 clients" />
+</p>
 
 ---
 
-## Domaines d'intervention
+## 👋 À propos
 
-- **Intelligence artificielle** : utilisation, optimisation, veille et automatisation
+J'évolue depuis plus de quinze ans à la croisée de **l'enseignement, de l'entrepreneuriat, du marketing digital, du management, du recrutement et de la transformation par la Data & l'IA**.
+
+Depuis **2011**, j'interviens auprès d'étudiants du **BEP/CAP au Master 2** sur des sujets allant du marketing digital à l'intelligence artificielle, en passant par la vente, la gestion de projet, la prise de parole et le développement professionnel.
+
+Mon fil conducteur : **transformer des concepts en pratiques directement mobilisables**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/INTELLIGENCE_ARTIFICIELLE-Data_%26_IA-7A5CFF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MARKETING_DIGITAL-SEO_%7C_SEA_%7C_SMM-00F5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/P%C3%89DAGOGIE-Formation_%26_transmission-7A5CFF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GESTION_DE_PROJET-Pilotage_%26_coordination-00F5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ENTREPRENEURIAT-Cr%C3%A9ation_%26_d%C3%A9veloppement-7A5CFF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+---
+
+## 🧠 Domaines d'intervention
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IA_g%C3%A9n%C3%A9rative-111827?style=for-the-badge&logo=openai&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/SEO-111827?style=for-the-badge&logo=google&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/SEA-111827?style=for-the-badge&logo=googleads&logoColor=7A5CFF" />
+  <img src="https://img.shields.io/badge/Social_Media-111827?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Gestion_de_projet-111827?style=for-the-badge&logo=trello&logoColor=7A5CFF" />
+  <img src="https://img.shields.io/badge/Formation-111827?style=for-the-badge&logo=moodle&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Recrutement-111827?style=for-the-badge&logo=linkedin&logoColor=7A5CFF" />
+  <img src="https://img.shields.io/badge/Vente-111827?style=for-the-badge&logo=salesforce&logoColor=00F5FF" />
+</p>
+
+- Utilisation, optimisation et appropriation de l'**intelligence artificielle**
 - **Marketing digital** : SEO, SEA, SMM, e-réputation
 - **Gestion de projet**
 - **Techniques de vente**
@@ -42,190 +84,168 @@ Quelques repères :
 
 ---
 
-## Compétences
+## 🚀 Parcours professionnel
 
-### Direction & entrepreneuriat
+### 🎓 Enseignant vacataire / Intervenant professionnel
+**Université d'Angers • IFEPSA • ESEO • ESAIP • ESPL • AMOS • autres établissements**  
+`2011 → Aujourd'hui`
 
-- Imaginer, créer et développer une entreprise
-- Valoriser des actifs matériels et immatériels jusqu'à leur cession
-- Gérer le capital humain et développer une vision collective
-- Identifier et animer un réseau de partenaires, financeurs et prescripteurs
+> **4 700+ étudiants formés**, du BEP/CAP au Master 2.
 
-### Management
-
-- Gérer des équipes pluridisciplinaires
-- Accompagner la performance et le changement
-- Former en individuel, collectif et FOAD
-- Mobiliser écoute active, bienveillance et leadership
-
-### Marketing digital
-
-- Construire et piloter une stratégie SEO, SEA et SMM
-- Mettre en place une politique de linkbuilding
-- Concevoir et faire vivre un plan marketing opérationnel
-- Mettre en œuvre des veilles opérationnelles
-
-### Développement commercial
-
-- Gérer des cycles de vente simples et complexes
-- Prospecter en physique et en digital
-- Construire un argumentaire et traiter les objections
-- Fidéliser et développer la cooptation
+Interventions : IA, marketing digital, SEO/SEA/SMM, vente, prise de parole, recherche d'emploi, gestion des risques, relations clients/fournisseurs et gestion de projet.
 
 ---
 
-## Expériences professionnelles
-
-### Enseignant vacataire / Intervenant professionnel
-**Université d'Angers, IFEPSA, ESEO, ESAIP, ESPL, AMOS**  
-*2011 — Aujourd'hui*
-
-Enseignements et interventions sur :
-
-- Intelligence artificielle
-- Marketing digital, SEO, SEA, SMM
-- Techniques de vente
-- Prise de parole en public
-- Techniques de recherche d'emploi
-- Gestion des risques et relations clients / fournisseurs
-- Gestion de projet
-
-**4 700+ étudiants formés**, du BEP/CAP au Master 2.
-
----
-
-### Responsable marketing / Développeur franchises
+### 📈 Responsable marketing / Développeur franchises
 **360 Formation**  
-*2017 — 2024*
+`2017 → 2024`
 
-- Promouvoir la franchise, analyser et sélectionner les candidats
-- Promouvoir les offres de formation et développer l'e-réputation
-- Piloter la communication : SEO, SEA, SMM et PMO
-- Créer, enrichir et entretenir les relations presse
+- Développement de la franchise
+- Promotion des offres de formation
+- Développement de l'e-réputation
+- Pilotage SEO, SEA, SMM et PMO
+- Relations presse
 
 ---
 
-### Dirigeant
+### 🎮 Dirigeant
 **Gaming Jobs / M² COM**  
-*2016 — 2022*
+`2016 → 2022`
 
-- Création et développement de la première plateforme de recrutement spécialisée dans les métiers du jeu vidéo et de l'esport : **jobs.game**
-- Cession des actifs immatériels à Gaming Group en janvier 2021
-- Création et développement d'une agence de communication BtoB spécialisée en SEO : **M² COM**
-- Jusqu'à **30 000 visiteurs uniques / mois**
+- Création et développement d'une plateforme de recrutement spécialisée dans les métiers du jeu vidéo et de l'esport
+- Création et développement d'une agence BtoB spécialisée en SEO
+- **30 000 visiteurs uniques / mois**
 - **250 clients**
+- Cession des actifs immatériels de Gaming Jobs à Gaming Group en 2021
 
 ---
 
-### Associé fondateur
-**Target Agency — Agence de chasse de têtes**  
-*2020 — 2021*
+<details>
+<summary><b>Afficher les autres expériences</b></summary>
 
-- Création, branding et développement d'une agence spécialisée dans l'entertainment et le jeu vidéo
-- Détection des besoins entreprises et gestion de cycles de vente complexes
-- Sourcing et entretiens de recrutement
-- Mise en œuvre de tests techniques et psychologiques
-- Références clients : **Bandai Namco, Ubisoft, Paradox, Playwing, Amplitude Studio**
+<br/>
 
----
+### 🎯 Associé fondateur — Target Agency
+`2020 → 2021`
 
-### Directeur adjoint
-**IFD — Organisme de formation**  
-*2013 — 2016*
+Agence de chasse de têtes spécialisée dans l'entertainment et le jeu vidéo.
 
-- Management d'une équipe pluridisciplinaire de **14 collaborateurs**
+Références : **Bandai Namco, Ubisoft, Paradox, Playwing, Amplitude Studio**.
+
+### 🧩 Directeur adjoint — IFD
+`2013 → 2016`
+
+- Management d'une équipe de **14 collaborateurs**
 - Développement commercial et marketing
-- Ingénierie pédagogique de nouvelles offres de formation
-- Rédaction de cahiers des charges et évolution d'une plateforme e-learning
-- Actions de lobbying auprès de financeurs et institutionnels
-- Création des premiers programmes 100 % e-learning IOBSP, CIF et IAS finançables par les OPCO
+- Ingénierie pédagogique
+- Pilotage d'une plateforme e-learning
+- Développement de programmes 100 % e-learning
+
+### 💼 Gestionnaire de patrimoine — Athéna Finances
+`2009 → 2013`
+
+- Développement d'un réseau de prescripteurs
+- Préconisations financières et immobilières
+- **1,7 M€ d'encours** sur supports financiers
+
+### 💻 Commercial — Primiweb
+`2008 → 2009`
+
+- Vente de progiciels
+- Prospection
+- Communication
+- Tunnels de vente
+- SAV commercial et technique
+
+</details>
 
 ---
 
-### Gestionnaire de patrimoine
-**Athéna Finances**  
-*2009 — 2013*
+## 🎓 Formation & certifications
 
-- Développement et animation d'un réseau de prescripteurs
-- Réalisation de découvertes patrimoniales
-- Préconisation de solutions financières et immobilières
-- Accompagnement client de la signature à la livraison
-- **1,7 M€ d'encours** en gestion sur supports financiers
+### École Polytechnique Executive Education
+**Data & IA — 2025**
 
----
+Travail autour de l'intégration de la Data et de l'IA dans la stratégie, de la création de valeur, de la gouvernance et des risques associés.
 
-### Commercial
-**Primiweb — SS2I**  
-*2008 — 2009*
+### Université de Lille
+**Évaluer efficacement pour faire progresser ses apprenants — 2024**
 
-- Prospection et vente de solutions de progiciels
-- Animation de la communication
-- Mise en place de tunnels de vente
-- Gestion du SAV commercial et technique
+### Institut de Formation et Développement
+**Habilitations CIF & IOBSP — 2015 / 2016**
+
+### ESAIP
+**Commercial généraliste — Titre RNCP Niveau 5 — 2008 / 2009**
 
 ---
 
-## Formation
+## 🌐 Quelques moments publics
 
-### Ingénieur Data & IA — Titre RNCP Niveau 7
-**École Polytechnique — Palaiseau**  
-*2024 — 2025*
+### 🎤 Conférence — Intelligence artificielle
+Intervention lors d'une soirée de sociétaires du **Crédit Agricole**, à Durtal, devant **130 participants**.
 
-### Habilitation CIF et IOBSP — Capacité professionnelle
-**Institut de Formation et Développement — Beaucouzé**  
-*2015 — 2016*
+[![Voir sur LinkedIn](https://img.shields.io/badge/Voir_le_post-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/posts/matthieu-lecl%C3%A8re_ia-transformationdigitale-innovation-activity-7445360661494206464-GbVb)
 
-### Commercial généraliste — Titre RNCP Niveau 5
-**ESAIP — Saint-Barthélemy-d'Anjou**  
-*2008 — 2009*
+### 🎓 Data & IA — École Polytechnique Executive Education
+Certification obtenue en **2025**, avec un travail portant notamment sur un pipeline semi-automatisé, reproductible et auditable de production de contenus pédagogiques assistés par IA.
 
----
+[![Voir le profil LinkedIn](https://img.shields.io/badge/Parcours-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-lecl%C3%A8re/)
 
-## Soft skills
+### 🎮 Sport & esport
+Accompagnement de projets étudiants et lien historique avec l'écosystème jeu vidéo / esport via **Gaming Jobs**.
 
-- Agilité et adaptabilité
-- Résilience
-- Leadership collaboratif
-- Créativité
-- Pensée critique
-- Autonomie
-- Communication inclusive
+[![Articles LinkedIn](https://img.shields.io/badge/Articles-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-lecl%C3%A8re/recent-activity/articles/)
 
 ---
 
-## Centres d'intérêt
+## 💡 Soft skills
 
-### Intelligence artificielle
-- Veille et testing proactif
-- Création de pipelines d'automatisation
-
-### Tennis
-- Initiateur 1er degré
-- Double champion départemental
-
-### Communication & sciences humaines
-- Analyse transactionnelle
-- Communication non verbale
-- Biais cognitifs
-- Programmation neuro-linguistique
-
-### Jeux vidéo
-- Jeux de rôle : Skyrim, Dragon Age
-- RTS : Age of Empires
-- Deck builders : Magic: The Gathering, The Bazaar
+<p align="center">
+  <img src="https://img.shields.io/badge/Agilit%C3%A9_%26_adaptabilit%C3%A9-7A5CFF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/R%C3%A9silience-00F5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Leadership_collaboratif-7A5CFF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Cr%C3%A9ativit%C3%A9-00F5FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Pens%C3%A9e_critique-7A5CFF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Autonomie-00F5FF?style=flat-square&labelColor=0D1117" />
+</p>
 
 ---
 
-## Me contacter
+## 🎯 Hors écran
 
-- **LinkedIn** : [linkedin.com/in/matthieu-leclère](https://www.linkedin.com/in/matthieu-lecl%C3%A8re/)
-- **Email** : [mat.leclere@laposte.net](mailto:mat.leclere@laposte.net)
-- **Localisation** : Verrières-en-Anjou, France
+**🎾 Tennis** — Initiateur 1er degré • Double champion départemental  
+**🧠 Sciences humaines & communication** — analyse transactionnelle, communication non verbale, biais cognitifs  
+**🎮 Jeux vidéo** — RPG, RTS, deck builders  
+**🤖 IA** — veille, expérimentation et automatisation
 
 ---
 
-<div align="center">
+## 📊 Activité GitHub
 
-### Transmettre • Structurer • Développer • Expérimenter
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattLeclere&theme=tokyonight" alt="GitHub profile details" />
+</p>
 
-</div>
+---
+
+## 🤝 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthieu-lecl%C3%A8re/">
+    <img src="https://img.shields.io/badge/LinkedIn-%C3%89changer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mat.leclere@laposte.net">
+    <img src="https://img.shields.io/badge/Email-M'%C3%A9crire-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MattLeclere">
+    <img src="https://img.shields.io/badge/GitHub-MattLeclere-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Transmettre • Structurer • Développer • Expérimenter</strong>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer" alt="Footer" />
+</p>
